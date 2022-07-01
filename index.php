@@ -63,9 +63,9 @@ h2 {
 
 form {
 	margin: auto;
-	width: 410px;
+	width: 810px;
 	margin-top: 200px;
-	height: 200px;
+	height: 400px;
 	border: 2px solid green;
 	background-color: aliceblue;
 	-webkit-box-shadow: 0px 10px 13px -7px #000000, 5px 5px 15px 5px rgba(0, 0, 0, 0);
@@ -80,24 +80,27 @@ form {
 
 .first {
 	margin: auto;
-	margin-left: 90px;
+	margin-left: 180px;
+
 }
 
 .second {
-	margin-left: 70px;
+	margin-left: 140px;
 	padding: 10px;
+
 }
 
 select {
 	margin: auto;
 	color: #362419;
 	font-family: 'Courier New', Courier, monospace;
+	font-size: 20px;
 }
 
 label {
 	font-family: 'Courier New', Courier, monospace;
-	text-align: center;
-	margin-left: 80px;
+	font-size: 20px;
+	margin-left: 160px;
 	color: #362419;
 
 
