@@ -50,10 +50,9 @@ if(isset($_POST['convert'])){
 <style>
 body {
 	background-image: url("/asset/pexels-michael-steinberg-342943.jpg");
-	background-position: center;
-	background-position-y: center;
 	background-repeat: no-repeat;
-	margin: auto;
+	background-attachment: fixed;
+	background-position: center;
 }
 
 h2 {
