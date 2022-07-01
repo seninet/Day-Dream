@@ -64,9 +64,9 @@ h2 {
 
 form {
 	margin: auto;
-	width: 410px;
-	margin-top: 50px;
-	height: 200px;
+	width: 810px;
+	margin-top: 250px;
+	height: 400px;
 	border: 2px solid green;
 	background-color: aliceblue;
 	-webkit-box-shadow: 0px 10px 13px -7px #000000, 5px 5px 15px 5px rgba(0, 0, 0, 0);
